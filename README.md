@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hariharan</h1>
-<h3 align="center">Pre-Final Year in Information Technology</h3>
+<h3 align="center">B.Tech Information Technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hariharan52&label=Profile%20views&color=0e75b6&style=flat" alt="hariharan52" /> </p>
 
